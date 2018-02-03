@@ -1,5 +1,5 @@
 # Funny_picture
-三張好笑圖片 | Photoshop練習圖片 | 這裡也放Git學習說明 | 怎麼寫這個 .md 
+複習Github上傳了三張好笑圖片 | Photoshop練習圖片 | 這裡也放Git學習說明 | 怎麼寫這個 .md 
 * * *
 練習github & git
 
